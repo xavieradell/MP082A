@@ -49,3 +49,6 @@ Al premer continuar la següent pàgina ens demanarà els paquets php.
 Un cop intalat tot sol caldrà reiniciar apache2.
 
 ![image](https://user-images.githubusercontent.com/118992579/205100394-7a8701c8-6ee4-481d-be1a-f7715fbb5a06.png)
+
+Acabat aixó ens demanarà les dades de la nostra base de dades que crearem ara amb les següents comandes:
+
