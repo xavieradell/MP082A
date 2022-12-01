@@ -32,3 +32,20 @@ Despres he procedit a instalar el php7.4, MySQL i Apache2.
 
 ![image](https://user-images.githubusercontent.com/118992579/205096469-ac1c7629-b575-46df-888f-ddc69dc59e83.png)
 
+Ara un cop instalat tot el nombrat anteriorment cal obrir el navegador que usis per accedir a la part final de l'instalació, al navegador cal posar: "ip del servidor"/moodle i ens sortirà la pàgina d'instalació de moodle.
+
+![image](https://user-images.githubusercontent.com/118992579/205099100-baff9fa1-5013-4d7b-ae00-e0172fb77673.png)
+
+En aquesta pàgina seleccionarem l'idioma que vulguem en el meu cas he seleccionat català.
+
+Al premer continuar la següent pàgina ens demanarà els paquets php.
+
+![image](https://user-images.githubusercontent.com/118992579/205100064-fa7d04ba-f3aa-4730-b97f-6155d1aad184.png)
+
+![image](https://user-images.githubusercontent.com/118992579/205100173-7b6fad8b-8eee-4085-aca0-868daba065a8.png)
+
+![image](https://user-images.githubusercontent.com/118992579/205100241-4dc8f5b1-aa9f-4e76-b5d5-174154e14fde.png)
+
+Un cop intalat tot sol caldrà reiniciar apache2.
+
+![image](https://user-images.githubusercontent.com/118992579/205100394-7a8701c8-6ee4-481d-be1a-f7715fbb5a06.png)
