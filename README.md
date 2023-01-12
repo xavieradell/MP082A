@@ -50,5 +50,12 @@ Un cop intalat tot sol caldrà reiniciar apache2.
 
 ![image](https://user-images.githubusercontent.com/118992579/205100394-7a8701c8-6ee4-481d-be1a-f7715fbb5a06.png)
 
-Acabat aixó ens demanarà les dades de la nostra base de dades que crearem ara amb les següents comandes:
+Acabat aixó ens demanarà les dades de la nostra base de dades que crearem ara amb la següent comanda:
 
+![Selecció_455](https://user-images.githubusercontent.com/118992579/212108117-509f4869-a61b-4911-8709-932b138dd938.png)
+
+Un cop crada la base de dades crearem un usuari i a aquest usuari li donarem permissos sobre la base de dades de moodle.
+
+![Selecció_457](https://user-images.githubusercontent.com/118992579/212108469-fe22a7c8-af12-49b7-900e-5df4248a78f3.png)
+
+![Selecció_458](https://user-images.githubusercontent.com/118992579/212108494-997f01f6-1ebc-4e65-971b-8dcd1f2029b3.png)
