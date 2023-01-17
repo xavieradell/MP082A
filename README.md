@@ -59,3 +59,19 @@ Un cop crada la base de dades crearem un usuari i a aquest usuari li donarem per
 ![Selecció_457](https://user-images.githubusercontent.com/118992579/212108469-fe22a7c8-af12-49b7-900e-5df4248a78f3.png)
 
 ![Selecció_458](https://user-images.githubusercontent.com/118992579/212108494-997f01f6-1ebc-4e65-971b-8dcd1f2029b3.png)
+
+Un cop creada la base de dades entrarem al següent enllaç:
+
+![image](https://user-images.githubusercontent.com/118992579/213024820-dde145d2-4779-4bee-9065-503ed9d7c02c.png)
+
+Segons la ip del nostre servidor variarà.
+
+Aquí començarem la instalació del moolde.
+
+Instalarem les dependencies que ens demana el propi moodle.
+
+Ens demana la base de dades amb l'usuari administrador i la carpeta on penjaran els usuaris els seu arxius "moodle data".
+
+Instalat ja el moodle anirem a la creació de categories i els cursos:
+![Selecció_463](https://user-images.githubusercontent.com/118992579/213025903-35b2627d-6b0d-4c45-aab6-4a17d1908e57.png)
+
