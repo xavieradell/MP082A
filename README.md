@@ -114,8 +114,7 @@ Els Cohorts són una forma d'agrupar usuaris.
 Perquè serveixen?
 Ens permet tractar més ràpid un grup d'alumnes a l'hora de inscriure'ls als cursos.
 
-Què són els grups?
-
-Perquè serveixen?
+Què són els grups?Perquè serveixen?
+Són agrupacions de alumnes que permet dividir les diversos alumnes de les seus grups.
 
 ![image](https://user-images.githubusercontent.com/118992579/213029837-b665887f-ac23-4eb5-9e1d-66aefe3488a3.png)
