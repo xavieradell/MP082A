@@ -82,12 +82,19 @@ Per afegir els cursos cal anar a "Site administration" dins de "courses" i selec
 ![Selecció_480](https://user-images.githubusercontent.com/118992579/213026871-8dbf597b-8e64-45ea-b425-a3af07de433f.png)
 
 Quins tipus d'usuaris (rols diferents) existeixen a Moodle?
+
 -Administrador/Gestor
+
 -Professor  amb permissos de edició
+
 -Professor tutor
+
 -Estudiant
 
 Quins rols poden assignar cada tipus d'usuaris?
+
 -Professor  amb permissos de edició
+
 -Professor tutor
+
 -Estudiant
