@@ -1,4 +1,4 @@
-# MP082A
+# MP082A INSTALACIÓ
 
 Moodle
 
@@ -67,8 +67,6 @@ Un cop creada la base de dades entrarem al següent enllaç:
 Segons la ip del nostre servidor variarà.
 
 Aquí començarem la instalació del moolde.
-
-Instalarem les dependencies que ens demana el propi moodle.
 
 Ens demana la base de dades amb l'usuari administrador i la carpeta on penjaran els usuaris els seu arxius "moodle data".
 
