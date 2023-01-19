@@ -23,3 +23,5 @@ Canvia el primer dia de la setmana del calendari a Diumenge.
 Fes que només els contactes de l'usuari puguin enviar-li missatges.
 
 ![Selecció_487](https://user-images.githubusercontent.com/118992579/213477553-26cd3f60-318a-4402-a1ae-6317fb43c4b9.png)
+
+# CURSOS
